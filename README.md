@@ -10,12 +10,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=srdets&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <img data-importer="snake" src="https://raw.githubusercontent.com/srdets/srdets/snake-output/snake.svg" alt="Snake animation" />
 
 ###
